@@ -2,7 +2,7 @@
 University Admit Eligibility Predictor
 
 Team members<br/>
-1.Raghul Sayee K A D
-2.Kirthick Raj S
-3.Deepak S
+1.Raghul Sayee K A D<br/>
+2.Kirthick Raj S<br/>
+3.Deepak S<br/>
 4.Ameer Batcha S
