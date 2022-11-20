@@ -1,0 +1,36 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>NoChance</title>
+<style>
+     body{
+        background-image: linear-gradient(to bottom right, white, rgb(32, 189, 87));
+    }
+
+.sty{
+margin-top:100px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+margin-left:450px;
+margin-right:450px;
+padding:5px;
+text-align:center;
+
+}
+
+</style>
+</head>
+<body>
+<form action="/nochance" method="post">
+<div class="sty">
+<p><b>Predicting Chance of Admission</b>
+<br>
+<br>
+Prediction :<u><b>You don't have a chance </b></u></p>
+<p>The model has predicted that you have <strong>{{predict}}%</strong> chance</p>
+</div><br>
+</form>
+</body>
+</head>
+</html>
